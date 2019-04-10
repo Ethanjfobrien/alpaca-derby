@@ -1,2 +1,2 @@
-# lama-up
-Main lama-up repository
+# Welcome
+Main project repository
